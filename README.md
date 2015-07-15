@@ -1,1 +1,5 @@
 # gitsample
+
+##メンバー
+
+*sanmplemember
